@@ -9,7 +9,9 @@
 </p>
 
 
-![RobertoRillo's Top Languages](https://github-readme-stats.vercel.app/api?username=RobertoRillo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
+!![RobertoRillo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoRillo&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![RobertoRillo's Stats](https://github-readme-stats.vercel.app/api?username=RobertoRillo&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![RobertoRillo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobertoRillo&theme=vue-dark&hide_border=true)
 
 <h3 align="center">Connect with me:</h3>
 
