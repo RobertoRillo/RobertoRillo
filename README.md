@@ -5,7 +5,7 @@
 
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,react,angular,mysql,fastapi,nodejs,docker,kubernetes,selenium,linux" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,react,angular,sql,fastapi,nodejs,docker,kubernetes,linux" />
 </p>
 
 
@@ -27,7 +27,7 @@
 
 <h3 align="center">Currently Working at:</h3>
 
-<p align="center">🤖 Right now I'm a software intern at Bright Machines.</p>
+<p align="center">🤖 Right now I'm a software engineer intern at Bright Machines.</p>
 
 
 <p align="center">
